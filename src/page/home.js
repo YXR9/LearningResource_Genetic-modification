@@ -27,7 +27,7 @@ export default function home() {
               <List.Item.Meta title={<a href='https://www.thenewslens.com/article/158022/page2' target="_blank" style={{fontSize: '20px'}}>科學、政治與權力：「基改生物」的管理與風險</a>}/>
             </List.Item>
             <List.Item>
-              <List.Item.Meta title={<a href='https://pansci.asia/archives/103106' style={{fontSize: '20px'}}>基改作物爭議超過20年，誰說得有理？ </a>}/>
+              <List.Item.Meta title={<a href='https://pansci.asia/archives/103106' target="_blank" style={{fontSize: '20px'}}>基改作物爭議超過20年，誰說得有理？ </a>}/>
             </List.Item>
             <List.Item>
               <List.Item.Meta title={<a href='https://www.organicconsumers.org/sites/default/files/seedybusiness.pdf' target="_blank" style={{fontSize: '20px'}}>基改企業賺錢有十五個絕招</a>}/>
@@ -61,14 +61,14 @@ export default function home() {
                 title={<a href='https://www.delta-foundation.org.tw/blogdetail/3187' target="_blank" style={{fontSize: '20px'}}>台灣「非故意摻雜」基改量低於3%可標非基改 消費者知情權各國大不同</a>}
                 description={
                   <ul>
-                    <li><a href='https://www.coa.gov.tw/ws.php?id=2349'>可節錄第三段(三、ＧＭＯ產品議題在國際經貿組織之發展)</a></li>
-                    <li><a href='https://www.coa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=2469'>基因改造作物依法嚴格管理</a></li>
-                    <li><a href='https://www.mohw.gov.tw/cp-2645-20513-1.html'>基因改造食品標示新制，2015年7月1日起上路</a></li>
-                    <li><a href='https://www.foodnext.net/news/newsnation/paper/5357548399'>基改豬出現！美國FDA批准史上第一個能吃也能製藥的基改動物</a></li>
-                    <li><a href='https://microbiology.scu.edu.tw/MIB/lifescience/wong1/fooli506.htm'>基因改造食品的管理</a></li>
-                    <li><a href='https://www.foodnext.net/science/scsource/paper/5616106961'>基因改造到底是什麼？</a></li>
-                    <li><a href='https://www.foodnext.net/issue/paper/4852926145'>台灣基改農產品有哪些？從哪裡來</a></li>
-                    <li><a href='https://gendoja1212.pixnet.net/blog/post/8571421-%E5%9F%BA%E5%9B%A0%E9%BB%83%E8%B1%86%E6%9C%89%E6%AF%92%E3%80%82%E8%80%8C%E5%8F%B0%E7%81%A3%E9%80%B2%E5%8F%A3%E9%BB%83%E8%B1%86%E4%B8%AD%E6%9C%8999%25%E6%98%AF%E5%9F%BA%E5%9B%A0'>國際社會對基因改造食物無共識</a></li>
+                    <li><a href='https://www.coa.gov.tw/ws.php?id=2349' target="_blank" style={{fontSize: '20px'}}>可節錄第三段(三、ＧＭＯ產品議題在國際經貿組織之發展)</a></li>
+                    <li><a href='https://www.coa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=2469' target="_blank" style={{fontSize: '20px'}}>基因改造作物依法嚴格管理</a></li>
+                    <li><a href='https://www.mohw.gov.tw/cp-2645-20513-1.html' target="_blank" style={{fontSize: '20px'}}>基因改造食品標示新制，2015年7月1日起上路</a></li>
+                    <li><a href='https://www.foodnext.net/news/newsnation/paper/5357548399' target="_blank" style={{fontSize: '20px'}}>基改豬出現！美國FDA批准史上第一個能吃也能製藥的基改動物</a></li>
+                    <li><a href='https://microbiology.scu.edu.tw/MIB/lifescience/wong1/fooli506.htm' target="_blank" style={{fontSize: '20px'}}>基因改造食品的管理</a></li>
+                    <li><a href='https://www.foodnext.net/science/scsource/paper/5616106961' target="_blank" style={{fontSize: '20px'}}>基因改造到底是什麼？</a></li>
+                    <li><a href='https://www.foodnext.net/issue/paper/4852926145' target="_blank" style={{fontSize: '20px'}}>台灣基改農產品有哪些？從哪裡來</a></li>
+                    <li><a href='https://gendoja1212.pixnet.net/blog/post/8571421-%E5%9F%BA%E5%9B%A0%E9%BB%83%E8%B1%86%E6%9C%89%E6%AF%92%E3%80%82%E8%80%8C%E5%8F%B0%E7%81%A3%E9%80%B2%E5%8F%A3%E9%BB%83%E8%B1%86%E4%B8%AD%E6%9C%8999%25%E6%98%AF%E5%9F%BA%E5%9B%A0' target="_blank" style={{fontSize: '20px'}}>國際社會對基因改造食物無共識</a></li>
                   </ul>
                 }
               />

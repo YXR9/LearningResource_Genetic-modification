@@ -1,15 +1,15 @@
 import React from 'react';
-import { Routes, Route, BrowserRouter } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 import './App.css';
 import Home from './page/home'
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter  basename={process.env.PUBLIC_URL}>
         <Routes>
             <Route exact path="/" element={<Home/>}/>
         </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
