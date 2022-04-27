@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LearningResource_Genetic-modification/static/css/main.4ba7b848.css",
+    "main.js": "/LearningResource_Genetic-modification/static/js/main.32edaae1.js",
+    "static/js/787.2e3f9522.chunk.js": "/LearningResource_Genetic-modification/static/js/787.2e3f9522.chunk.js",
+    "index.html": "/LearningResource_Genetic-modification/index.html",
+    "main.4ba7b848.css.map": "/LearningResource_Genetic-modification/static/css/main.4ba7b848.css.map",
+    "main.32edaae1.js.map": "/LearningResource_Genetic-modification/static/js/main.32edaae1.js.map",
+    "787.2e3f9522.chunk.js.map": "/LearningResource_Genetic-modification/static/js/787.2e3f9522.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba7b848.css",
+    "static/js/main.32edaae1.js"
+  ]
+}
